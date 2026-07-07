@@ -1,16 +1,13 @@
-## Hi there 👋
+# Sheldon Maschmeyer
+## CTO of [Alpha-El Inc.](https://alpha-el.ca)
 
-<!--
-**sheldonmaschmeyer/sheldonmaschmeyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### See: [LinkedIn](https://ca.linkedin.com/in/sheldonmaschmeyer)
+#### See: [Maschmeyer.ca](https://maschmeyer.ca)
+#### See: [GitHub Business](https://github.com/sheldonwbm)
 
-Here are some ideas to get you started:
+Most of the work I do is in private repositories using the sheldonwbm username. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+SheldonWBM/SheldonWBM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
